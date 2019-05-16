@@ -15,6 +15,8 @@ namespace ConsoleApp1
             // Edited from VS 1st time.
 
             // Code to call new feature 1.
+
+            // Code to call new feature 2.
                         
             // Code to call new feature 3.
         }
