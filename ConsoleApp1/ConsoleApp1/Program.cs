@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Edited from GitHub 1st time.
         }
     }
 }
